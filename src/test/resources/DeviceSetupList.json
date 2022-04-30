@@ -1,0 +1,28 @@
+[
+ 
+ {
+ 	"name" : "Android",
+ 	"caps" : {
+ 			"deviceName"      : "Nexus 5X API 29 x86",
+ 			"platformName"    : "Android",
+ 			"platformVersion" : "10",
+ 			"appPackage"	  : "com.meraki.mapidemo",
+ 			"appActivity"	  : "com.meraki.mapidemo.MainActivity"
+ 			}				
+ 			
+ 	},
+ 	
+	{
+ 	"name" : "iOS",
+ 	"caps" : {
+ 			"deviceName"      : "iPhone XS Max",
+ 			"platformName"    : "iOS",
+ 			"platformVersion" : "12.0",
+ 			"bundleId"	      : "com.meraki.mapidemo"
+ 			}				
+ 			
+ 	}
+
+
+
+]
