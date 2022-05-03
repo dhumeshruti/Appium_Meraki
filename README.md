@@ -24,6 +24,7 @@ This framework is based on Appium, Cucumber-JVM, TestNG, Allure and log4j
   e.g To run on an iOS device change the value as below 
   "Device" : "iOS"
 5. Device Capabilities can be found under src/test/resources/DeviceSetupList.json.
+6. mvn test to trigger the testcases
 
 **Generating Allure Result**
 
